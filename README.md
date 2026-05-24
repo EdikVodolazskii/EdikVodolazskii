@@ -1,16 +1,18 @@
-![Твоя статистика GitHub](https://github-readme-stats.vercel.app/api?username=EdikVodolazskii&show_icons=true&theme=radical)
-![Твои языки](https://github-readme-stats.vercel.app/api/top-langs/?username=EdikVodolazskii&layout=compact&theme=radical)
-<!--
-**EdikVodolazskii/EdikVodolazskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eitan Vodolazski
 
-Here are some ideas to get you started:
+I am a software developer with a strong focus on low-level systems, reverse engineering, and Android architecture. I enjoy building projects from scratch and understanding how systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+* Developing **InSafe**, a real-time social networking and safety application.
+* Building **ArbuzScript**, a custom statically typed programming language with a dedicated lexer, parser, and C transpiler.
+* Exploring advanced Android internals, binary optimization, and x86 Assembly.
+
+### Technical Stack
+* **Languages:** C, C++, x86 Assembly, Java, Python
+* **Domains:** Reverse Engineering, Compiler Design, System Architecture, Cybersecurity
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EdikVodolazskii&show_icons=true&theme=radical)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=EdikVodolazskii&layout=compact&theme=radical)
